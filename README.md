@@ -51,9 +51,10 @@ _________________________
 _________________________
 
 • Features 
-•	The pharmacist can search for medicine,
-•	Edit medicine details, 
-•	Can see the summary of total sales by entering the date,
-•	Add, Search, Edit, and Delete are required for each type of data, 
-•	E-prescription,
-•	Can see the timing of pharmacy,
+>	The pharmacist can search for medicine,
+>	Edit medicine details, 
+>	Can see the summary of total sales by entering the date,
+>	Add, Search, Edit, and Delete are required for each type of data, 
+>	E-prescription,
+>	Can see the timing of pharmacy
+________________________
